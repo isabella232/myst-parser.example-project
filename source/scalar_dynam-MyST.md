@@ -1,4 +1,5 @@
-# (scalar_d)= Dynamics in One Dimension
+(scalar_d)=
+# Dynamics in One Dimension
 
 ```{contents}
 ---

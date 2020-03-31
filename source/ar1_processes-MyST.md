@@ -1,4 +1,5 @@
-# (ar1_processes)=AR1 Processes
+(ar1_processes)=
+# AR1 Processes
 
 ``` {contents}
 ---

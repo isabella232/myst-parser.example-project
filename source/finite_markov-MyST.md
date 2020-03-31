@@ -1,4 +1,5 @@
-# (mc)=Finite Markov Chains
+(mc)=
+# Finite Markov Chains
 
 ```{note}
 You can {download}`Download the source file for this page <./finite_markov-MyST.md>`
