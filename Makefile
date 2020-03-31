@@ -29,6 +29,12 @@ rst-html:
 rst-preview:
 	cd $(BUILDDIR_RST)/html && python -m http.server
 
+rst-latex:
+	@$(SPHINXBUILD) -M latex "$(SOURCEDIR_RST)" "$(BUILDDIR_RST)" $(SPHINXOPTS) $(O)
+
+rst-latexpdf:
+	@$(SPHINXBUILD) -M latexpdf "$(SOURCEDIR_RST)" "$(BUILDDIR_RST)" $(SPHINXOPTS) $(O)
+
 #-MYST-#
 preview:
 	cd $(BUILDDIR)/html && python -m http.server

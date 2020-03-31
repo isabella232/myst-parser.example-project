@@ -2,11 +2,11 @@
 MyST: An example project
 ========================
 
-.. toctree:
+.. toctree::
    :caption: Contents
    :maxdepth: 2
 
-   scalar_dynam-MyST
-   ar1_processes-MyST
-   finite_markov-MyST
-   inventory_dynamics-MyST
+   scalar_dynam
+   ar1_processes
+   finite_markov
+   inventory_dynamics
